@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DeviceGlance/DeviceGlance.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DeviceGlance.Tests/DeviceGlance.Tests.csproj" />
+  </Folder>
+</Solution>
